@@ -1,0 +1,5 @@
+       Fresh guessing_game v0.1.0 (/workspaces/rust-test/projects/guessing_game)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.00s
+     Running `target/debug/guessing_game`
+Guess the number!
+Please input ypur guess.
